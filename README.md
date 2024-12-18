@@ -12,7 +12,7 @@ This list includes **215 DP problems** from LeetCode, shuffled to help you pract
 4. [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/)
 5. [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
 6. [Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard/)
-7. [Unique Paths](https://leetcode.com/problems/unique-paths/)
+7. [Unique Paths](https://leetcode.com/problems/unique-paths/)✅
 8. [Word Break II](https://leetcode.com/problems/word-break-ii/)
 9. [Maximum Number of Achievable Transfer Requests](https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/)
 10. [Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices/)
@@ -220,7 +220,7 @@ This list includes **215 DP problems** from LeetCode, shuffled to help you pract
 212. [Word Break](https://leetcode.com/problems/word-break/)
 213. [Maximum Sum of 3 Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)
 214. [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
-215. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+215. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)✅
 
 ---
 
